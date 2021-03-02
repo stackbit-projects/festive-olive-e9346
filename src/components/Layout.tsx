@@ -49,7 +49,7 @@ const Layout = (props: LayoutProps) => {
           {/* Footer */}
           <Segment inverted vertical style={{ position: "absolute", bottom: 0, width: "100%" }}>
             <Container textAlign="center">
-              <p>Designed with <Icon name="heart" /> by <Link to=https://www.delirium.design>delirium.design</Link></p>
+              <p>Designed with <Icon name="heart" /> by <Link to='https://www.delirium.design>delirium.design</Link></p>
             </Container>
           </Segment>
         </Sidebar.Pusher>
