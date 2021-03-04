@@ -6,7 +6,7 @@ const AboutPage = () => {
   return (
     <Container>
       <Segment vertical>
-        <Header as="h2">
+        <Header as="h1">
           <Icon name="info circle" />
           <Header.Content>
             O nama
