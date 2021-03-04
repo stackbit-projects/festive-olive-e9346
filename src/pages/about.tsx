@@ -9,7 +9,7 @@ const AboutPage = () => {
         <Header as="h2">
           <Icon name="info circle" />
           <Header.Content>
-            About
+            O nama
           </Header.Content>
         </Header>
       </Segment>
