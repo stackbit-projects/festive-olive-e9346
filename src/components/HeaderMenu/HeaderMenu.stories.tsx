@@ -10,6 +10,7 @@ const items = [
   { name: "Home", path: "/", exact: true },
   { name: "About", path: "/about/", exact: true },
   { name: "Blog", path: "/blog/", exact: false },
+  { name: "Blog", path: "/blog/", exact: false },
 ];
 
 const LinkStub = (props: any) =>
