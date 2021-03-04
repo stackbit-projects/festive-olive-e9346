@@ -40,7 +40,7 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 690,
-              backgroundColor: `#f7f0eb`
+              backgroundColor: `#000000`
             }
           },
           `gatsby-remark-prismjs`,
