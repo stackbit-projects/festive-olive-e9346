@@ -62,7 +62,7 @@ describe("HeaderMenu component", () => {
         dispatch={dispatchStub}
       />,
     );
-    expect(wrapper.find({ name: "Blog" }).prop("active")).toBeTruthy();
+    expect(wrapper.find({ name: "Blog2" }).prop("active")).toBeTruthy();
   });
 
   it("should have inverted style", () => {
