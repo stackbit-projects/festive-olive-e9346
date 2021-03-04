@@ -49,7 +49,7 @@ const Layout = (props: LayoutProps) => {
           </div>
 
           {/* Footer */}
-          <Segment inverted vertical style={{ position: "absolute", bottom: 0, width: "50%" }}>
+          <Segment inverted vertical style={{ position: "center", bottom: 0, width: "50%" }}>
             <Container textAlign="center">
               <p>Designed with <Icon name="heart" /> by <Link to='https://www.delirium.design'>delirium.design</Link></p>
             </Container>
