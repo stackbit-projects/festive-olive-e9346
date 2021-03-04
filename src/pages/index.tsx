@@ -98,6 +98,18 @@ const IndexPage = (props: LayoutProps) =>
                   beatae expedita aliquam dolorem asperiores nemo amet quaerat.
                 </p>
           </Grid.Column>
+          <Grid.Column>
+            <Header icon>
+              <Icon name="wizard"></Icon>
+              A kind of magic!
+            </Header>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                  Voluptas eaque at quae cupiditate aspernatur quibusdam!
+                  Distinctio quod non, harum dolorum earum molestias,
+                  beatae expedita aliquam dolorem asperiores nemo amet quaerat.
+                </p>
+          </Grid.Column>
         </Grid.Row>
       </Grid>
     </Segment>
