@@ -7,7 +7,7 @@ const AboutPage = () => {
     <Container>
       <Segment vertical>
         <Header as="h2">
-          <Icon name="about" />
+          <Icon name="info circle" />
           <Header.Content>
             O nama
           </Header.Content>
