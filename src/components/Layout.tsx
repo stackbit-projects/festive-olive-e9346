@@ -44,7 +44,7 @@ const Layout = (props: LayoutProps) => {
           />}
 
           {/* Render children pages */}
-          <div style={{ paddingBottom: 60 }}>
+          <div style={{ paddingBottom: 160 }}>
             {props.children}
           </div>
 
