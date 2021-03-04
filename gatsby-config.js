@@ -70,7 +70,7 @@ module.exports = {
         name: `Gatsby website`,
         short_name: `Gatsby website`,
         start_url: `/`,
-        background_color: `#f7f7f7`,
+        background_color: `#000000`,
         theme_color: `#191919`,
         display: `minimal-ui`
       }
