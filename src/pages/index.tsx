@@ -21,7 +21,7 @@ const IndexPage = (props: LayoutProps) =>
       <Container text>
         <Header inverted as="h1">RACIO IK - Gatsby</Header>
         <Header inverted as="h2">Typescript - Jest - Semantic UI</Header>
-        <Button primary size="huge">Get started!</Button>
+        <Button primary size="huge">Saznaj više!</Button>
       </Container>
     </Segment>
 
